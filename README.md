@@ -22,6 +22,7 @@ This repository provides a patched installation script that:
 
 - **Tested on:** Ubuntu 24.04.3 LTS
 - **Kernel:** 6.14.0-35-generic (should work on 6.14+)
+- **HDMI Device:** WAVLINK WL-UG7602H-FBA USB 3.0 to Dual HDMI
 - **SMI Driver:** v2.22.1.0
 - **Architecture:** x86_64
 
