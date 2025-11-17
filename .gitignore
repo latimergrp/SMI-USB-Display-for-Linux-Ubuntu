@@ -34,3 +34,8 @@ Thumbs.db
 # Test files
 test/
 testing/
+
+# Local contributor notes (not for public repo)
+AGENTS.md
+PACKAGE_SUMMARY.md
+SETUP_GUIDE.md
