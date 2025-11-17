@@ -1,0 +1,36 @@
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# Build directories
+/tmp/
+build/
+dist/
+
+# EVDI source (users should clone themselves)
+evdi/
+
+# SMI driver files (proprietary - not to be redistributed)
+SMIUSBDisplay-driver*.run
+*.bin
+*.tar.gz
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Backup files
+*.backup
+*.bak
+*.old
+
+# Test files
+test/
+testing/
